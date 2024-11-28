@@ -1,3 +1,3 @@
-
+input
 print("lo")
 print

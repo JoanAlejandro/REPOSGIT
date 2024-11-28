@@ -38,8 +38,14 @@ El programa calculará automáticamente los siguientes resultados:
 EVIDENCIA DEL FUNCIONAMIENTO (SALIDA):
 
 Cuantos metros cuadrados se necesitan para producir un litro de leche 2
+
 Cuantos metros cuadrados tiene el corral 10
+
 Cuantas vacas tiene el corral 3
+
 3 Vacas producen 105.0 litros de leche 
+
 Cuantas aves tiene el galpon 30
+
 en un mes producen 80.0 huevos mensuales
+
